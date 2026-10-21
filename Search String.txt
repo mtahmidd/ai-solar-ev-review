@@ -1,0 +1,9 @@
+
+
+								     SEARCH STRING (SCOPUS SYNTAX)
+
+Block	Terms (TITLE-ABS-KEY, combined with OR)
+AI	“artificial intelligence”, “machine learning”, “deep learning”, “reinforcement learning”, “neural network*”, “fuzzy”, “metaheuristic*”, “genetic algorithm*”, “particle swarm”, “random forest”, “LSTM”
+Solar	solar, photovoltaic*, PV
+EV	“electric vehicle*”, EV, “charging station*”, “charging infrastructure”, “vehicle-to-grid”, V2G, EVCS
+Limits	PUBYEAR > 2017 AND PUBYEAR < 2027; DOCTYPE = ar OR cp; LANGUAGE = English
