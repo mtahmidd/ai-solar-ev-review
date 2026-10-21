@@ -1,1 +1,0 @@
-# ai-solar-ev-review
